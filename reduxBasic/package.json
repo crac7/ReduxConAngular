@@ -1,0 +1,14 @@
+{
+  "name": "reduxbasic",
+  "version": "1.0.0",
+  "description": "curso primera parte del curso de redux en angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Anzules",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
