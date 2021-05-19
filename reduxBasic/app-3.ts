@@ -21,7 +21,7 @@ class Store<T>{
 
 const store  = new Store(contadorReducer, 10)
 
-console.log(store.getState())
+console.log(  store.getState())
 
 store.dispatch(incrmentadorAction)
 

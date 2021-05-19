@@ -1,2 +1,2 @@
 # ReduxConAngular
-Pratice of Course "REDUX en Angular con NGRX"
+Pratice of Course "REDUX en Angular con  NGRX"
